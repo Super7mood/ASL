@@ -1,0 +1,17 @@
+Data processing:
+
+removed 1456 dublicate image 
+56 image per class
+
+
+70% training
+30% testing
+
+
+Some images couldn't find a landmark
+
+some had 42 landmarks which confused the results
+
+
+
+out of 2091 images, 1699 found hand landmarks while 392 couldn't
